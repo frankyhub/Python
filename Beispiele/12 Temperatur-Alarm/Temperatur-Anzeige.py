@@ -1,7 +1,7 @@
 """
 Temperatur-Anzeige
 
-================================================="""
+========== mu ==========="""
 
 import time
 import analogio
