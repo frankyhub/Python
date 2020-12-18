@@ -1,7 +1,7 @@
 """
 Kleines Relais schalten
 
-================================================="""
+========== mu =========="""
 
 import time
 import board
