@@ -2,13 +2,13 @@
 Ein einfacher Timer.
 Es läuft eine 25-minütige Arbeitssitzung und dann 5 Minuten Pause.
 Drücke die Reset-Taste, um den Timer neu zu starten.
-"""
+========= mu =========="""
 
 from microbit import *
 
-# Tweak CLOCK_ADJUST to make your system clock more accurate.
-# My clock is too fast by 4 seconds every minute so I use 4/60.
-# If your clock is too slow by 3 seconds every minute use -3/60.
+# Mit CLOCK_ADJUST die Systemuhr optimieren.
+# Meine Uhr ist um 4 Sekunden pro Minutezu schnell, so dass ich 4/60 verwende.
+# Wenn deine Uhr um 3 Sekunden pro Minute zu langsam ist, verwende -3/60.
 
 CLOCK_ADJUST = -3/60
 
