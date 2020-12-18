@@ -1,6 +1,6 @@
-### Flame simulation on the Microbit.
-### Author: M. Schafer 2016
-# This program has been placed into the public domain.
+"""
+Flamme
+========= mu =========="""
 
 import microbit, random
 
