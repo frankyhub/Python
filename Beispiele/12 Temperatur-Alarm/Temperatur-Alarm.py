@@ -1,7 +1,7 @@
 """
 Alarm, wenn TEMP einen Schwellenwert überschreitet
 
-================================================="""
+========== mu ==========="""
 
 import time
 import analogio
