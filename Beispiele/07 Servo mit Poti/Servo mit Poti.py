@@ -1,7 +1,7 @@
 """
 Servo mit Poti ansteuern
 
-================================================="""
+========== mu ========="""
 
 import time
 import analogio
