@@ -1,6 +1,8 @@
 """
-Ein kleines Beispiel für die Verwendung von Pins 1 & 2 und Taste A.
-"""
+Beispiel für die Verwendung 
+von Pins 1 & 2 und Taste A.
+========= mu =========="""
+
 import microbit
 """calliope_mini import *"""
 # define some constants
