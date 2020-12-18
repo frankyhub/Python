@@ -1,3 +1,6 @@
+"""
+Taste A + B
+========= mu =========="""
 from microbit import *
 
 while True:
