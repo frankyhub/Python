@@ -1,3 +1,7 @@
+"""
+Clock
+========= mu =========="""
+
 from microbit import *
 
 hands = Image.ALL_CLOCKS
