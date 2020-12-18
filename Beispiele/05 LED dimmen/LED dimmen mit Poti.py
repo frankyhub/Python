@@ -1,7 +1,7 @@
 """
 LED dimmen mit Poti
 
-================================================="""
+========== mu ==========="""
 import time
 import digitalio
 import analogio
