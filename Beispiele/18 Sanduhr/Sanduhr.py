@@ -1,7 +1,7 @@
 """
 Ein einfacher Timer.
 Es läuft eine 25-minütige Arbeitssitzung und dann 5 Minuten Pause.
-Drücken die Reset-Taste, um den Timer neu zu starten.
+Drücke die Reset-Taste, um den Timer neu zu starten.
 """
 
 from microbit import *
