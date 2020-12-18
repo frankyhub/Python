@@ -1,7 +1,7 @@
 """
 LED mit Poti dimmen
 
-================================================="""
+========== mu ================"""
 
 import analogio
 import board
