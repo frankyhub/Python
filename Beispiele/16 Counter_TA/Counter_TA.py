@@ -1,6 +1,6 @@
 """
    Counter mit Taste A
-"""
+========= mu =========="""
 
 import microbit
 ctr = 0                                         # Initialize counter
