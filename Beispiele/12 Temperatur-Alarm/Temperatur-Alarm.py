@@ -1,5 +1,5 @@
 """
-Alarm, wenn der TEMP einen Schwellenwert überschreitet
+Alarm, wenn TEMP einen Schwellenwert überschreitet
 
 ================================================="""
 
