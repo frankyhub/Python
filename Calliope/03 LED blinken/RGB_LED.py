@@ -1,0 +1,15 @@
+from calliope_mini import *
+
+led.set_colors(255, 0, 0)
+sleep(1000)    
+led.set_colors(0, 255, 0)
+sleep(1000)    
+led.set_colors(0, 0, 255)
+sleep(1000) 
+led.set_colors(255, 255, 0)
+sleep(1000)
+led.set_colors(255, 0, 255)
+sleep(1000) 
+led.set_colors(0, 255, 255)
+sleep(1000) 
+led.set_colors(0, 0, 0)
