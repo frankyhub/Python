@@ -15,10 +15,10 @@ esp.osdebug(None)
 import gc
 gc.collect()
 
-ssid = 'R2-D2'
-password = '2QK384JVPX'
+ssid = 'xxx'
+password = 'xxx'
 
-api_key = 'bQZDfPulxRsRZW65I0AxgU'
+api_key = 'xxx'
 
 ms_sleep_time = 600000
 
