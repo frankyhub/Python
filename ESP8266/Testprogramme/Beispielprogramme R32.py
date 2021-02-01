@@ -197,8 +197,8 @@ repl_button = machine.Pin(0, machine.Pin.IN, machine.Pin.PULL_UP)
 repl_led = machine.Pin(2, machine.Pin.OUT)
 
 # Network settings
-wifi_ssid = "R2-D2"
-wifi_password = "2QK384JVPX"
+wifi_ssid = "xxx"
+wifi_password = "xxx"
 
 # Web page (non-SSL) to get
 url = "http://example.com"
@@ -276,8 +276,8 @@ gc.collect()
 #i2c = I2C(scl=Pin(5), sda=Pin(4), freq=10000)
 
 
-ssid = 'R2-D2'
-password = '2QK384JVPX'
+ssid = 'xxx'
+password = 'xxx'
 
 station = network.WLAN(network.STA_IF)
 
